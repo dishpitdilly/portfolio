@@ -28,7 +28,7 @@ p {
 }
 
 a {
-    color: var(--ddamethyst);
+    color: var(--ddamethyst) !important;
     text-decoration: none;
     user-select: none;
     -webkit-user-drag: none;

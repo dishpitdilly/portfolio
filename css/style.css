@@ -87,6 +87,7 @@ header nav ul li {
     color: var(--ddamethyst);
     padding: 0 10px;
     cursor: pointer;
+    text-decoration: none:
 }
 
 li a:hover  {
